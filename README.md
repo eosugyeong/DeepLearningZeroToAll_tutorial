@@ -1,9 +1,9 @@
 # DeepLearningZeroToAll Season1 tutorial (Tensorflow 1.14.0)
 
 ### Course Contents
-- 1. 머신러닝의 개념과 용어
-- 2. Linear Regression 의 개념
-- 3. Linear Regression cost 함수 최소화
+1. 머신러닝의 개념과 용어
+2. Linear Regression 의 개념
+3. Linear Regression cost 함수 최소화
 - 4. 여러개의 입력(feature)의 Linear Regression
 - 5. Logistic (Regression) Classification
   - Hypothesis 함수 소개, Cost 함수 소개, TensorFlow 에서의 구현

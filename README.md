@@ -6,7 +6,7 @@
 3. Linear Regression cost 함수 최소화
 4. 여러개의 입력(feature)의 Linear Regression
 5. Logistic (Regression) Classification
-  - Hypothesis 함수 소개, Cost 함수 소개, TensorFlow 에서의 구현
+    - Hypothesis 함수 소개, Cost 함수 소개, TensorFlow 에서의 구현
   
 6. Softmax Regression (Multinomial Logistic Regression)
   - Multinomial 개념 소개, Cost 함수 소개
